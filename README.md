@@ -111,24 +111,28 @@ _Loading… the first workflow run will fill this in._
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdammar56&show_icons=true&theme=shades-of-purple&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdammar56&theme=shades-of-purple&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdammar56&show_icons=true&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdammar56&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=8" alt="Top languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple" alt="GitHub Streak Stats" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple&hide_border=false" alt="GitHub streak" />
+### 📈 Contribution Activity
 
-<div align="center">
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdammar56&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff)
 
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdammar56&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=8b5cf6&amp;point=ffffff" alt="GitHub Contribution Activity Graph" width="100%" />
+### 🏆 GitHub Trophies
 
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mdammar56&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="GitHub Profile Trophies" width="100%" />
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=mdammar56&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)
 
-</div>
+---
 
 ---
 
