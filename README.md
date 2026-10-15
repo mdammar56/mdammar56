@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohammed+Ammar+👋;Aspiring+Data+Analyst;AI+%2F+ML+Enthusiast;Turning+data+into+decisions" alt="Typing SVG" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Mohammed+Ammar+%F0%9F%91%8B;Aspiring+Data+Analyst;AI+%2F+ML+Enthusiast;Turning+Data+into+Decisions" alt="Typing SVG" />
+</p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=mdammar56&label=Profile+views&color=8b5cf6&style=flat" alt="Profile views" />
   <a href="https://github.com/mdammar56?tab=followers"><img src="https://img.shields.io/github/followers/mdammar56?style=flat&logo=github&color=8b5cf6" alt="Followers" /></a>
