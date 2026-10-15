@@ -120,9 +120,13 @@ _Loading… the first workflow run will fill this in._
 
 <img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple&hide_border=false" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdammar56&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff" alt="Contribution graph" />
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdammar56&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdammar56&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=8b5cf6&amp;point=ffffff" alt="GitHub Contribution Activity Graph" width="100%" />
+
+<!-- GitHub Profile Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=mdammar56&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="GitHub Profile Trophies" width="100%" />
 
 </div>
 
