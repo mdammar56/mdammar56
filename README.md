@@ -127,9 +127,6 @@ _Loading… the first workflow run will fill this in._
 <!-- Contribution Activity Graph -->
 <img src="https://ghchart.rshah.org/8b5cf6/mdammar56" alt="GitHub Contribution Activity Graph" width="100%" />
 
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mdammar56&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Profile Trophies" />
-
 </div>
 
 ---
