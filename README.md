@@ -9,10 +9,6 @@
   <a href="https://github.com/mdammar56?tab=followers"><img src="https://img.shields.io/github/followers/mdammar56?style=flat&logo=github&color=8b5cf6" alt="Followers" /></a>
 </p>
 
-<a href="https://linkedin.com/in/ammar56"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/md_ammar_05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="mailto:ammar786543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-
 </div>
 
 ---
@@ -130,9 +126,6 @@ _Loading… the first workflow run will fill this in._
 
 <!-- Contribution Activity Graph -->
 <img src="https://ghchart.rshah.org/8b5cf6/mdammar56" alt="GitHub Contribution Activity Graph" width="100%" />
-
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mdammar56&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Profile Trophies" />
 
 </div>
 
