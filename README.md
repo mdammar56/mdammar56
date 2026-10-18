@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mdammar56&label=Profile+views&color=8b5cf6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mdammar56.mdammar56&left_color=gray&right_color=8b5cf6&left_text=Profile%20views" alt="Profile views" />
   <a href="https://github.com/mdammar56?tab=followers"><img src="https://img.shields.io/github/followers/mdammar56?style=flat&logo=github&color=8b5cf6" alt="Followers" /></a>
 </p>
 
@@ -25,7 +25,12 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 - 🧹 Focused on **data cleaning, EDA, and predictive modeling**
 - 🌱 Learning: **machine learning, deep learning, and dashboarding**
 - 🤝 Open to **data analytics & AI** opportunities and collaborations
-- 📫 Reach me at **ammar786543@gmail.com**
+
+## 📫 Reach Me
+
+<a href="https://linkedin.com/in/ammar56"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/md_ammar_05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:ammar786543@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 ---
 
@@ -87,10 +92,12 @@ _Loading… the first workflow run will fill this in._
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -99,6 +106,7 @@ _Loading… the first workflow run will fill this in._
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -120,13 +128,11 @@ _Loading… the first workflow run will fill this in._
 
 <img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple&hide_border=false" alt="GitHub streak" />
 
-<div align="center">
-
 <!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdammar56&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=8b5cf6&amp;point=ffffff" alt="GitHub Contribution Activity Graph" width="100%" />
+<img src="https://ghchart.rshah.org/8b5cf6/mdammar56" alt="GitHub Contribution Activity Graph" width="100%" />
 
 <!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mdammar56&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="GitHub Profile Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mdammar56&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Profile Trophies" width="100%" />
 
 </div>
 
