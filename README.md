@@ -9,10 +9,6 @@
   <a href="https://github.com/mdammar56?tab=followers"><img src="https://img.shields.io/github/followers/mdammar56?style=flat&logo=github&color=8b5cf6" alt="Followers" /></a>
 </p>
 
-<a href="https://linkedin.com/in/ammar56"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/md_ammar_05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="mailto:ammar786543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-
 </div>
 
 ---
