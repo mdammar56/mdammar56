@@ -49,17 +49,11 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
 <a href="https://github.com/mohamedfadil12/Arachne">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedfadil12&repo=Arachne&theme=shades-of-purple&hide_border=false" alt="Arachne" />
 </a>
 
-</td>
-</tr>
-</table>
 </div>
 
 ---
