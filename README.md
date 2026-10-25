@@ -125,6 +125,8 @@ _Loading… the first workflow run will fill this in._
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdammar56&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=8" alt="Top languages" />
 
+<br>
+
 <img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple&hide_border=false" alt="GitHub streak" />
 
 <!-- Contribution Activity Graph -->
