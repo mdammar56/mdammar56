@@ -46,7 +46,7 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 </td>
 </tr>
 </table>
-<div>
+</div>
 
 <table>
 <tr>
