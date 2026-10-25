@@ -123,11 +123,11 @@ _Loading… the first workflow run will fill this in._
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdammar56&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=8" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple&hide_border=false" alt="GitHub streak" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple&hide_border=false" alt="GitHub streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdammar56&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=8" alt="Top languages" />
 
 <!-- Contribution Activity Graph -->
 <img src="https://ghchart.rshah.org/8b5cf6/mdammar56" alt="GitHub Contribution Activity Graph" width="100%" />
