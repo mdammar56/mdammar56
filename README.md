@@ -43,6 +43,9 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 ![Stars](https://img.shields.io/github/stars/mohamedfadil12/Arachne?style=flat&color=8b5cf6)
 
 </td>
+
+<br>
+
 <td width="50%">
 
 <a href="https://github.com/mohamedfadil12/Arachne">
