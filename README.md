@@ -48,6 +48,7 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 </table>
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -59,6 +60,7 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -121,10 +123,9 @@ _Loading… the first workflow run will fill this in._
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
+  
+## 📊 GitHub Stats
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdammar56&show_icons=true&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" />
 
