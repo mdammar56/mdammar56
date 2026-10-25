@@ -134,6 +134,13 @@ _Loading… the first workflow run will fill this in._
 
 </div>
 
+<div align="center">
+  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdammar56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
 ---
 
 ### ✍️ Random Dev Quote
@@ -144,12 +151,6 @@ _Loading… the first workflow run will fill this in._
 
 </div>
 
-<div align="center">
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdammar56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 ---
 
 <div align="center">
