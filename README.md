@@ -40,10 +40,6 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 ### 🕸️ [Arachne](https://github.com/mohamedfadil12/Arachne)
 *See exactly where a speech slips.* Arachne compares a speech against a reference of the same text and shows where delivery drifts, with the measurement and rubric rule behind every flag.
 
-</td>
-</tr>
-</table>
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/mohamedfadil12/Arachne?style=flat&color=8b5cf6)
 
