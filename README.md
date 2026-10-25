@@ -120,6 +120,9 @@ _Loading… the first workflow run will fill this in._
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdammar56&show_icons=true&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" />
+
+<br>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdammar56&theme=shades-of-purple&hide_border=false&layout=compact&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=mdammar56&theme=shades-of-purple&hide_border=false" alt="GitHub streak" />
