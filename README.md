@@ -43,12 +43,6 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 </td>
 </tr>
 </table>
-<div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/mohamedfadil12/Arachne?style=flat&color=8b5cf6)
