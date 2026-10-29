@@ -25,7 +25,6 @@ I'm **Mohammed Ammar**, an aspiring **Data Analyst** and **AI/ML enthusiast** wi
 ## 📫 Reach Me
 
 <a href="https://linkedin.com/in/ammar56"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/md_ammar_05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:ammar786543@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 ---
@@ -149,8 +148,6 @@ _Loading… the first workflow run will fill this in._
 <div align="center">
   
 ## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdammar56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 </div>
